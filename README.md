@@ -48,8 +48,3 @@
 * add reporter and thunk middleware to your redux store
 * create async action creators for making ajax request to your backend
 * create sync action creators (regular action creators that return an object literal) for updating your app store
-
-#### Bonus - 3pts: Test
-* test your redux reducers
-* test your action creators
-* test at least 1 component (with the exception of `<App />`)
